@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=activx-nv&label=Profile%20views&color=0e75b6&style=flat" alt="activx-nv" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://activx-nv.github.io/portfolio](https://activx-nv.github.io/portfolio)
-
-- ⚡ Fun fact **If you press on the gas and the brake pedals at the same time, your car will take a screenshot.**
+- 👨‍💻 My projects are available at [https://activx-nv.github.io/portfolio](https://activx-nv.github.io/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
