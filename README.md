@@ -12,6 +12,7 @@
 
 <i>"Are you a functional component?
 "Cause you've got me hooked"</i>
+<br />
 <strong>- Ben Awad 2020</strong>
 
 <h3 align="left">Languages and Tools:</h3>
