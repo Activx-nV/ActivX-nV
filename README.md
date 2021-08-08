@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lauri</h1>
-<h3 align="center">A passionate frontend developer from Estonia</h3>
+<h3 align="center">A Front-end Developer from Estonia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=activx-nv&label=Profile%20views&color=0e75b6&style=flat" alt="activx-nv" /> </p>
 
