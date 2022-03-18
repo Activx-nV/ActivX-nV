@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=activx-nv&label=Profile%20views&color=0e75b6&style=flat" alt="activx-nv" /> </p>
 
-- 👨‍💻 My projects are available at [https://activx-nv.github.io/portfolio-current/](https://activx-nv.github.io/portfolio-current/)
+- 👨‍💻 My projects are available at [NOT AVAILABLE ATM](https://activx-nv.github.io/portfolio-current/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
