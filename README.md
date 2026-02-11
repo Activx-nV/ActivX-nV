@@ -10,7 +10,7 @@
 <b>🚀 Web3 journey projects:</p>
 
 #### #1 [Dashboard](https://github.com/Activx-nV/web3-dashboard)
-Connect wallet and explore balances, networks, and transaction history of some chains.
+Connect your wallet and explore balances, networks, and transaction history of some chains.
 
 More to come ❤️
 </section>
