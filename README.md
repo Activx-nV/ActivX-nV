@@ -11,4 +11,7 @@
 #### #1 [Dashboard](https://github.com/Activx-nV/web3-dashboard)
 Connect wallet and explore balances, networks, and transaction history of some chains.
 
+#### #2 [Token approve/transfer](https://github.com/Activx-nV/token-dashboard)
+In progress
+
 >More to come ❤️
