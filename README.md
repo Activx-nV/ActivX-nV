@@ -9,7 +9,7 @@
 <b>🚀 Web3 journey projects:</p>
 
 #### #1 [Dashboard](https://github.com/Activx-nV/web3-dashboard)
-Connect wallet and explore balances, networks, and transaction history of some chains.
+Connect your wallet and explore balances, networks, and transaction history of some chains.
 
 #### #2 [Contract approve & transfer](https://github.com/Activx-nV/token-dashboard)
 View multi-chain ERC-20 token balances, execute transfers with real-time transaction tracking and manage token approvals.
